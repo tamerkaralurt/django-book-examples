@@ -1,20 +1,17 @@
 okul/*.pyc
 okul/__pycache__
 okul/okul/myvenv
-okul/db.sqlite3
 okul/.DS_Store
 okul/.vscode
 
 kitapcilar/*.pyc
 kitapcilar/__pycache__
 kitapcilar/okul/myvenv
-kitapcilar/db.sqlite3
 kitapcilar/.DS_Store
 kitapcilar/.vscode
 
 *.pyc
 __pycache__
 myvenv
-db.sqlite3
 .DS_Store
 .vscode
